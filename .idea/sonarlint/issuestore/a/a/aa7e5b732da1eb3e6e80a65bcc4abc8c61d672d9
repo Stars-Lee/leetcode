@@ -1,0 +1,8 @@
+
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(äÇÏÿÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(›ˆ«Ğ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ŸŠÑøÿÿÿÿ
+^
+java:S1128"<Remove this unused import 'org.junit.runners.Parameterized'.(·Òó³ıÿÿÿÿ8ˆÙŸºŸ0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8˜ÙŸºŸ0

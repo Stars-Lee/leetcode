@@ -1,0 +1,9 @@
+
+D
+java:S1481")Remove this unused "nums" local variable.(Éûã€ÿÿÿÿÿ
+]
+java:S1128"GRemove this unused import 'com.sun.xml.internal.bind.v2.model.core.ID'.(ô°ñ§
+C
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô°ñ§

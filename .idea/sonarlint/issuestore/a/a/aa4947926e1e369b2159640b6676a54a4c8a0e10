@@ -1,0 +1,7 @@
+
+^
+java:S1128"HRemove this unused import 'com.sun.xml.internal.ws.api.pipe.NextAction'.(þ¿Ø½
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(þ¿Ø½

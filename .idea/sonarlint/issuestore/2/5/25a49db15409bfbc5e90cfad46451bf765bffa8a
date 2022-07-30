@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù™¼Úûÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'sun.security.util.Length'.(Ê³à£ùÿÿÿÿ
+P
+java:S1128":Remove this unused import 'javax.swing.text.StyleContext'.(žåÇ’
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ê³à£ùÿÿÿÿ

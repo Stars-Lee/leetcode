@@ -1,0 +1,8 @@
+
+—
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ýü²ó
+h
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÍŸÂ°
+A
+java:S1481,"+Remove this unused "twenty" local variable.(•ÌÉè
+s	java:S135-"YReduce the total number of break and continue statements in this loop to use at most one.( Ììëÿÿÿÿÿ

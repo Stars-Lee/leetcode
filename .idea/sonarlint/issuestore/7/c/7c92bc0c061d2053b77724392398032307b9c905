@@ -1,0 +1,10 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¬’‘¼ùÿÿÿÿ
+<
+java:S1659T"!Declare "res" on a separate line.(ÛÚ²ûúÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(ŸÊð÷
+W
+java:S1128"ARemove this unused import 'jdk.nashorn.internal.runtime.Context'.(ªªÀØ
+R
+java:S1128"<Remove this unused import 'java.security.interfaces.RSAKey'.(óú…Ñ

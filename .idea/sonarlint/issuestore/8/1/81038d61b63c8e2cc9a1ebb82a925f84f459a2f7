@@ -1,0 +1,15 @@
+
+E
+java:S1481%"(Remove this unused "res" local variable.(ıœºë8Ä«ÖÅ0
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ÎÒ¬şÿÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(‡´áé
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(©şâõşÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ğşøñ
+q
+java:S1128"ORemove this unused import 'sun.plugin.net.protocol.jar.CachedJarURLConnection'.(‹ƒ«ùÿÿÿÿ8©öÖÅ0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8©öÖÅ0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8©öÖÅ0
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(‹ƒ«ùÿÿÿÿ
