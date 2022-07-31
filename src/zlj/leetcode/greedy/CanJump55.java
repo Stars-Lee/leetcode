@@ -1,8 +1,6 @@
 package zlj.leetcode.greedy;
 
-import com.sun.xml.internal.bind.v2.model.core.ID;
 
-import javax.swing.*;
 import java.util.HashSet;
 import java.util.Set;
 

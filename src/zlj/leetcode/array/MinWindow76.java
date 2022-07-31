@@ -1,14 +1,7 @@
 package zlj.leetcode.array;
 
-import com.sun.corba.se.spi.ior.EncapsulationFactoryBase;
-import org.hamcrest.core.SubstringMatcher;
-import org.junit.Test;
 
-import javax.swing.plaf.basic.BasicTreeUI;
-import java.beans.PropertyVetoException;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
+import org.junit.Test;
 
 /**
  * @author: zlj

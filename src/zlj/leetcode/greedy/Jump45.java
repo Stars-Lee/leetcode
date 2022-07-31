@@ -1,6 +1,5 @@
 package zlj.leetcode.greedy;
 
-import com.sun.org.apache.xerces.internal.impl.dv.dtd.NMTOKENDatatypeValidator;
 import org.junit.Test;
 
 /**

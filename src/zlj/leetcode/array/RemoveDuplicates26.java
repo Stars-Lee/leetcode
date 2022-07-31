@@ -1,11 +1,7 @@
 package zlj.leetcode.array;
 
-import com.sun.org.apache.xerces.internal.impl.dv.dtd.NMTOKENDatatypeValidator;
-import com.sun.org.apache.xpath.internal.operations.Bool;
-import com.sun.xml.internal.bind.v2.model.core.ID;
 import org.junit.Test;
 
-import java.lang.annotation.Target;
 import java.util.Arrays;
 
 /**

@@ -1,9 +1,6 @@
 package zlj.leetcode.greedy;
 
 import org.junit.Test;
-import sun.security.util.Length;
-
-import javax.swing.text.StyleContext;
 import java.util.Arrays;
 
 /**

@@ -1,6 +1,5 @@
 package zlj.leetcode.array;
 
-import javafx.scene.chart.NumberAxis;
 import org.junit.Test;
 
 import java.util.Arrays;

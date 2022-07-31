@@ -1,8 +1,5 @@
 package zlj.leetcode.greedy;
 
-import com.sun.xml.internal.ws.api.pipe.NextAction;
-
-import java.util.ArrayList;
 
 /**
  * @author zlj
